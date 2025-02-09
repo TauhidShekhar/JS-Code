@@ -21,7 +21,7 @@ accuntPass="3750"
 
 accountCity="amritsar"
 
-console.table([accountId,accountEmail,accuntPass,accountCity,accountState])
+console.table([accountId,accountEmail,accuntPass,accountCity,accountState ])
 
 // console.log(accountEmail);
 // console.log(accuntPass);
