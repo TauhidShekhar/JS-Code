@@ -8,8 +8,8 @@ console.log(typeof valueInNumber)
 console.log(valueInNumber)
 
 // "33" => 33 
-// 33adf => NaN  not any number
-// true=> 1; false =>0
+// 33adf => NaN -> not any number
+// Bool= true=> 1; false =>0
 
 
 
