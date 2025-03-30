@@ -1,0 +1,20 @@
+const string=("tauhid");//this is primitive srtring
+
+console.log(string);
+
+const string1=(`my name is tauhid`);//this  string is primitive
+console.log(string1);
+
+
+const string3=new String("Shekhar")//A String object
+console.log(string3);
+
+console.log(string3.toUpperCase());
+
+console.log(string3.search("She"));
+
+
+console.log(string3.slice(0,4));
+
+
+
